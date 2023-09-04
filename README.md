@@ -13,7 +13,7 @@ It's become so regular I now call it **Cilium Weekly** !
 
 While I tend to explore the brand new features of Cilium as they are being developed and released, I sometimes touch on side projects like Hubble and [Tetragon](https://tetragon.cilium.io/), on adjacent projects like [Gateway API](https://gateway-api.sigs.k8s.io/) and the broader Kubernetes eco-system. I also occasionally post videos highlighting features only available on the Isovalent [Enterprise edition](https://isovalent.com/product/) of Cilium.
 
-By the way, outside I create a lot of Cilium content: blog posts, videos, free hands-on labs, etc... You can find it all on our [website](https://isovalent.com/resource-library/).
+By the way, outside of Cilium Weekly, I also create a lot of Cilium content: blog posts, videos, free hands-on labs, etc... You can find it all on our [website](https://isovalent.com/resource-library/).
 
 # Episode Request and Feedback
 
@@ -21,9 +21,28 @@ If you'd like me to cover a specific topic that is not yet covered below, please
 
 If you'd also like to share some feedback about the videos, feel free to get in touch. 
 
-If you'd like to be notified when a new episode is released, you can either follow on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/), watch this repo or do both! 
+If you'd like to be notified when a new episode is released, you can either follow me on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/), Watch this repo or do both! 
 
 Don't hesitate to share this repo with your peers if you find it useful. 
+
+# Roadmap
+
+## Episode Roadmap
+
+- Cilium BGP Routes ([PR](https://github.com/cilium/cilium/pull/27182))
+- Migrating from Calico
+- HTTP Redirect
+- HTTP URL Rewrite
+- Traffic Mirroring 
+- How to run Gateway API conformance tests
+- Gateway API 0.8.0
+- Network Policy Editor
+- Cilium Multihoming
+- Inside Cilium
+
+## Repo roadmap
+
+I plan to add the code I used in each demo to this repo eventually so that you can reproduce the scenario yourself.
 
 # Episode Listing 
 
