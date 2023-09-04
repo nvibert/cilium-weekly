@@ -1,15 +1,35 @@
-# cilium-weekly
+
+![image](https://github.com/nvibert/cilium-weekly/assets/28391130/55d5f02b-6796-4b93-8c3d-f06f251a7104)
+
 A repo listing all the Cilium Weekly videos!
 
 # Introduction
 
-Since August 2022, I started posting regular posts and videos on LinkedIn highlighting a Cilium feature. 
+Hi! I am Nico Vibert - Senior Technical Marketing at Isovalent, the company behind the cloud networking platform Cilium. 
 
+Since August 2022, I started posting regular posts and videos on LinkedIn highlighting a [Cilium](https://github.com/cilium/cilium) feature.
 
+It's become so regular I now call it **Cilium Weekly** !
+
+While I tend to explore the brand new features of Cilium as they are being developed and released, I sometimes touch on side projects like Hubble and [Tetragon](https://tetragon.cilium.io/), on adjacent projects like [Gateway API](https://gateway-api.sigs.k8s.io/) and the broader Kubernetes eco-system. I also occasionally post videos highlighting features only available on the Isovalent [Enterprise edition](https://isovalent.com/product/) of Cilium.
+
+By the way, outside I create a lot of Cilium content: blog posts, videos, free hands-on labs, etc... You can find it all on our [website](https://isovalent.com/resource-library/).
+
+# Episode Request and Feedback
+
+If you'd like me to cover a specific topic that is not yet covered below, please raise an issue on this repo. You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/) or on the Cilium [Slack](https://cilium.herokuapp.com/).
+
+If you'd also like to share some feedback about the videos, feel free to get in touch. 
+
+If you'd like to be notified when a new episode is released, you can either follow on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/), watch this repo or do both! 
+
+Don't hesitate to share this repo with your peers if you find it useful. 
+
+# Episode Listing 
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Topic                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| 30             | August 2023 | External Traffic Policy                     |                                                                                                                       | Unknown                                    |
+| 30             | August 2023 | External Traffic Policy                     |   [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-and-my-activity-7102264123861688321-bZq1?utm_source=share&utm_medium=member_desktop)                                                                                                                    | Unknown                                    |
 | 29               | July 2023   | Mutual Authentication                       | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-mutual-authentication-activity-7091814688023269376-wQ8S?utm_source=share&utm_medium=member_desktop) | Unknown                                    |
 | 28             | July 2023   | L2 Announcements                            | [LinkedIn Link](https://lnkd.in/ed36MAnK)                                                                           | Unknown                                    |
 | 27             | July 2023   | BIG TCP for IPv4                            | [LinkedIn Link](https://lnkd.in/e8xDpAAa)                                                                         | Unknown                                    |
