@@ -46,7 +46,7 @@ I plan to add the code I used in each demo to this repo eventually so that you c
 
 # Episode Listing 
 
-| Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Topic                                      |
+| Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
 | 30             | August 2023 | External Traffic Policy                     |   [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-and-my-activity-7102264123861688321-bZq1?utm_source=share&utm_medium=member_desktop)                                                                                                                    | BGP & External Networking                                    |
 | 29               | July 2023   | Mutual Authentication                       | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-mutual-authentication-activity-7091814688023269376-wQ8S?utm_source=share&utm_medium=member_desktop) | Security                                    |
