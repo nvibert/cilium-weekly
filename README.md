@@ -39,6 +39,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Network Policy Editor
 - Cilium Multihoming
 - Inside Cilium
+- Cilium and KubeVirt + BGP
 
 ## Repo roadmap
 
