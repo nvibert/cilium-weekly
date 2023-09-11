@@ -29,7 +29,6 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 ## Episode Roadmap
 
-- Cilium BGP Routes ([PR](https://github.com/cilium/cilium/pull/27182))
 - Migrating from Calico
 - HTTP URL Rewrite
 - Traffic Mirroring 
@@ -48,6 +47,7 @@ I plan to add the code I used in each demo to this repo eventually so that you c
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 32             | September 2023 | BGP Route Visibility                     | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_episode-32-of-cilium-weekly-bgp-routes-status-activity-7106963632923521025-0rY-?utm_source=share&utm_medium=member_desktop) | BGP & External Networking |
 | 31             | September 2023 | HTTP Redirect with Cilium Gateway API    | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_episode-31-of-cilium-weekly-http-redirect-activity-7104817213613686784-GvzD?utm_source=share&utm_medium=member_desktop) | Service Mesh & Ingress/Gateway API
 | 30             | August 2023 | External Traffic Policy                     |   [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-and-my-activity-7102264123861688321-bZq1?utm_source=share&utm_medium=member_desktop)                                                                                                                    | BGP & External Networking                                    |
 | 29               | July 2023   | Mutual Authentication                       | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_new-cilium-feature-this-week-mutual-authentication-activity-7091814688023269376-wQ8S?utm_source=share&utm_medium=member_desktop) | Security                                    |
