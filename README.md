@@ -29,6 +29,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 ## Episode Roadmap
 
+- BBR
+- Bandwidth Manager
 - Migrating from Calico
 - HTTP URL Rewrite
 - Traffic Mirroring 
