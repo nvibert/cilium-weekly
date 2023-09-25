@@ -30,10 +30,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 ## Episode Roadmap
 
 - BBR
-- Bandwidth Manager
 - Migrating from Calico
 - HTTP URL Rewrite
-- Traffic Mirroring 
 - How to run Gateway API conformance tests
 - Gateway API 0.8.0
 - Network Policy Editor
@@ -41,6 +39,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Inside Cilium
 - Cilium and KubeVirt + BGP
 - BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705/files#diff-dddec5a0dbbf46faca6e3ea84b23aefe87d43e6ced346582f5d86d362936f204)
+- IPv6 LB-IPAM
+- IPv6 BGP
 
 ## Repo roadmap
 
