@@ -41,6 +41,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705/files#diff-dddec5a0dbbf46faca6e3ea84b23aefe87d43e6ced346582f5d86d362936f204)
 - IPv6 LB-IPAM
 - IPv6 BGP
+- NAT 46
+- NAT 64
 
 ## Repo roadmap
 
