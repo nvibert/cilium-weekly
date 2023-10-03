@@ -35,7 +35,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - How to run Gateway API conformance tests
 - Gateway API 0.8.0
 - Network Policy Editor
-- Cilium Multihoming
+- Cilium Multi-networking
 - Inside Cilium
 - Cilium and KubeVirt + BGP
 - BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705/files#diff-dddec5a0dbbf46faca6e3ea84b23aefe87d43e6ced346582f5d86d362936f204)
@@ -43,6 +43,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - IPv6 BGP
 - NAT 46
 - NAT 64
+- Multi-Pool IPAM & Multi-Pool support with BGP
 
 ## Repo roadmap
 
