@@ -42,6 +42,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - IPv6 LB-IPAM
 - IPv6 BGP
 - Multi-Pool IPAM & Multi-Pool support with BGP
+- KV Store Mesh
 
 ## Repo roadmap
 
