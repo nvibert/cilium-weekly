@@ -36,12 +36,12 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Network Policy Editor
 - Cilium Multi-networking
 - Cilium and KubeVirt + BGP
-- BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705/files#diff-dddec5a0dbbf46faca6e3ea84b23aefe87d43e6ced346582f5d86d362936f204)
+- BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705)
 - IPv6 LB-IPAM
 - IPv6 BGP
-- Multi-Pool IPAM
 - Multi-Pool support with BGP
 - KV Store Mesh
+- BGP MD5 password [PR](https://github.com/cilium/cilium/pull/23759)
 
 ## Repo roadmap
 
@@ -51,6 +51,7 @@ I plan to add the code I used in each demo to this repo eventually so that you c
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 36             | October 2023 | Multi-Pool IPAM                            | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7117789679810191360-oSxf?utm_source=share&utm_medium=member_desktop) | CNI |
 | 35             | October 2023 | NAT46 & NAT64                              | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7115247365220913153-BImJ?utm_source=share&utm_medium=member_desktop) | Networking |
 | 34             | September 2023 | Bandwidth Manager                        | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-episode-34-of-cilium-weekly-i-cover-a-activity-7112015058301251584-kqSH?utm_source=share&utm_medium=member_desktop) | CNI |
 | 33             | September 2023 | Traffic Mirroring                        | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-episode-33-of-cilium-weekly-i-explore-activity-7109468624926425090-ZBLy?utm_source=share&utm_medium=member_desktop) |  Service Mesh & Ingress/Gateway API |
