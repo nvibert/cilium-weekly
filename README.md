@@ -38,7 +38,6 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Cilium and KubeVirt + BGP
 - BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705)
 - IPv6 LB-IPAM
-- IPv6 BGP
 - Multi-Pool support with BGP
 - KV Store Mesh
 - BGP MD5 password [PR](https://github.com/cilium/cilium/pull/23759)
@@ -51,6 +50,7 @@ I plan to add the code I used in each demo to this repo eventually so that you c
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 37             | October 2023 | BGP over IPv6                          | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7120714338662768640-L24g?utm_source=share&utm_medium=member_desktop) | BGP & External Networking |
 | 36             | October 2023 | Multi-Pool IPAM                            | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7117789679810191360-oSxf?utm_source=share&utm_medium=member_desktop) | CNI |
 | 35             | October 2023 | NAT46 & NAT64                              | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7115247365220913153-BImJ?utm_source=share&utm_medium=member_desktop) | Networking |
 | 34             | September 2023 | Bandwidth Manager                        | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-episode-34-of-cilium-weekly-i-cover-a-activity-7112015058301251584-kqSH?utm_source=share&utm_medium=member_desktop) | CNI |
