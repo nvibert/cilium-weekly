@@ -41,6 +41,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Multi-Pool support with BGP
 - KV Store Mesh
 - BGP MD5 password [PR](https://github.com/cilium/cilium/pull/23759)
+- BGP Development Environment [PR](https://github.com/cilium/cilium/pull/28292)
 
 ## Repo roadmap
 
