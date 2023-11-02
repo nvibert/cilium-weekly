@@ -32,9 +32,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - BBR
 - Migrating from Calico
 - HTTP URL Rewrite
-- How to run Gateway API conformance tests
 - Network Policy Editor
-- Cilium Multi-networking
 - Cilium and KubeVirt + BGP
 - BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705)
 - IPv6 LB-IPAM
@@ -42,6 +40,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - KV Store Mesh
 - BGP MD5 password [PR](https://github.com/cilium/cilium/pull/23759)
 - BGP Development Environment [PR](https://github.com/cilium/cilium/pull/28292)
+- Gateway API 1.0
+- Kyverno & Network Policies
 
 ## Repo roadmap
 
@@ -51,6 +51,7 @@ I plan to add the code I used in each demo to this repo eventually so that you c
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 38             | November 2023 | Cilium Multi Network                      | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7125856868249264128-yhz7?utm_source=share&utm_medium=member_desktop) | CNI |
 | 37             | October 2023 | BGP over IPv6                          | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7120714338662768640-L24g?utm_source=share&utm_medium=member_desktop) | BGP & External Networking |
 | 36             | October 2023 | Multi-Pool IPAM                            | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7117789679810191360-oSxf?utm_source=share&utm_medium=member_desktop) | CNI |
 | 35             | October 2023 | NAT46 & NAT64                              | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7115247365220913153-BImJ?utm_source=share&utm_medium=member_desktop) | Networking |
