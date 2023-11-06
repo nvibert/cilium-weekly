@@ -42,6 +42,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - BGP Development Environment [PR](https://github.com/cilium/cilium/pull/28292)
 - Gateway API 1.0
 - Kyverno & Network Policies
+- Tetragon (Network Monitoring [Policy](https://tetragon.io/docs/policy-library/observability/#egress-connections))
 
 ## Repo roadmap
 
