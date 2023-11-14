@@ -45,6 +45,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Tetragon (Network Monitoring [Policy](https://tetragon.io/docs/policy-library/observability/#egress-connections))
 - Tetragon (Sudo [Monitoring](https://tetragon.io/docs/policy-library/observability/#sudo))
 - Cilium Certified Associate (CCA)
+- Gateway API - gRPC support (1.15.0-pre.2)
+- Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
 
 ## Repo roadmap
 
