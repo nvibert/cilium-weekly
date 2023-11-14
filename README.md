@@ -43,6 +43,8 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Gateway API 1.0
 - Kyverno & Network Policies
 - Tetragon (Network Monitoring [Policy](https://tetragon.io/docs/policy-library/observability/#egress-connections))
+- Tetragon (Sudo [Monitoring](https://tetragon.io/docs/policy-library/observability/#sudo))
+- Cilium Certified Associate (CCA)
 
 ## Repo roadmap
 
