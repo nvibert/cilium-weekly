@@ -47,6 +47,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Cilium Certified Associate (CCA)
 - Gateway API - gRPC support (1.15.0-pre.2)
 - Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
+- L2 Pod Announcement
 
 ## Repo roadmap
 
