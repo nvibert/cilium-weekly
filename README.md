@@ -30,7 +30,6 @@ Don't hesitate to share this repo with your peers if you find it useful.
 ## Episode Roadmap
 
 - BBR
-- Migrating from Calico
 - HTTP URL Rewrite
 - Network Policy Editor
 - Cilium and KubeVirt + BGP
@@ -38,7 +37,6 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - IPv6 LB-IPAM
 - Multi-Pool support with BGP
 - KV Store Mesh
-- BGP MD5 password [PR](https://github.com/cilium/cilium/pull/23759)
 - BGP Development Environment [PR](https://github.com/cilium/cilium/pull/28292)
 - Gateway API 1.0
 - Kyverno & Network Policies
@@ -48,6 +46,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Gateway API - gRPC support (1.15.0-pre.2)
 - Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
 - L2 Pod Announcement
+- Contributing to Cilium Docs
 
 ## Repo roadmap
 
