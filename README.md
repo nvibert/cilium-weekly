@@ -43,19 +43,15 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Tetragon (Network Monitoring [Policy](https://tetragon.io/docs/policy-library/observability/#egress-connections))
 - Tetragon (Sudo [Monitoring](https://tetragon.io/docs/policy-library/observability/#sudo))
 - Cilium Certified Associate (CCA)
-- Gateway API - gRPC support (1.15.0-pre.2)
+- Gateway API - gRPC support (1.15.0-pre.3)
 - Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
 - L2 Pod Announcement
-- Contributing to Cilium Docs
-
-## Repo roadmap
-
-I plan to add the code I used in each demo to this repo eventually so that you can reproduce the scenario yourself.
 
 # Episode Listing 
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 40             | December 2023 | Contributing to Cilium Docs               | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-this-weeks-cilium-weekly-episode-40-activity-7137463231081558016-8Eip?utm_source=share&utm_medium=member_desktop) | CNI |
 | 39             | November 2023 | BGP MD5 Authentication                    | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-this-new-episode-of-cilium-weekly-episode-activity-7135262135843999745-GERn?utm_source=share&utm_medium=member_desktop) | BGP & External Networking |
 | 38             | November 2023 | Cilium Multi Network                      | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7125856868249264128-yhz7?utm_source=share&utm_medium=member_desktop) | CNI |
 | 37             | October 2023 | BGP over IPv6                          | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7120714338662768640-L24g?utm_source=share&utm_medium=member_desktop) | BGP & External Networking |
