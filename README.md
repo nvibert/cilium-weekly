@@ -29,6 +29,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 ## Episode Roadmap
 
+- Egress Gateway
 - BBR
 - HTTP URL Rewrite
 - Network Policy Editor
