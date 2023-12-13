@@ -29,6 +29,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 ## Episode Roadmap
 
+- Terraform Provider for Cilium [Link](https://registry.terraform.io/providers/littlejo/cilium/latest/docs)
 - Egress Gateway
 - BBR
 - HTTP URL Rewrite
