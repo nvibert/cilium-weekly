@@ -47,7 +47,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 - Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
 - L2 Pod Announcement
 - ECMP (Michael's lab)
-- NetFetch with Cilium Policies
+- ClusterIP support
 
 # Episode Listing 
 
