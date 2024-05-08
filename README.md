@@ -31,28 +31,22 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 - Egress Gateway
 - BBR
-- HTTP URL Rewrite
-- Network Policy Editor
 - Cilium and KubeVirt + BGP
-- BGP Attributes Advertisement [PR](https://github.com/cilium/cilium/pull/27705)
+- BGP Attributes Advertisement
 - IPv6 LB-IPAM
 - Multi-Pool support with BGP
 - KV Store Mesh
-- BGP Development Environment [PR](https://github.com/cilium/cilium/pull/28292)
 - Gateway API 1.0
 - Kyverno & Network Policies
-- Tetragon (Network Monitoring [Policy](https://tetragon.io/docs/policy-library/observability/#egress-connections))
-- Tetragon (Sudo [Monitoring](https://tetragon.io/docs/policy-library/observability/#sudo))
 - Cilium Certified Associate (CCA)
-- Ingress SSL Passthrough Support [PR](https://github.com/cilium/cilium/pull/28751)
 - L2 Pod Announcement
-- ECMP (Michael's lab)
 - ClusterIP support
 
 # Episode Listing 
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 43             | May 2024  | Multicast on Kubernetes with Cilium     | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-episode-43-of-cilium-weekly-i-cover-a-activity-7193536716744335360-2M8O?utm_source=share&utm_medium=member_desktop) | CNI |
 | 42             | January 2024  | gRPC Routing with Cilium Gateway API      | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_the-upcoming-cilium-115-adds-support-for-activity-7153778923909124097-syTp?utm_source=share&utm_medium=member_desktop) | Service Mesh & Ingress/Gateway API |
 | 41             | December 2023 | Terraform Provider for Cilium             | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7141043834196520960-tWF3?utm_source=share&utm_medium=member_desktop) | GitOps & Infra As Code |
 | 40             | December 2023 | Contributing to Cilium Docs               | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-this-weeks-cilium-weekly-episode-40-activity-7137463231081558016-8Eip?utm_source=share&utm_medium=member_desktop) | CNI |
