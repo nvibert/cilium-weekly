@@ -5,7 +5,7 @@ A repo listing all the Cilium Weekly videos!
 
 # Introduction
 
-Hi! I am Nico Vibert - Senior Technical Marketing at Isovalent, the company behind the cloud networking platform Cilium. 
+Hi! I am Nico Vibert - Senior Staff Technical Marketing at Isovalent, the company behind the cloud networking platform Cilium. 
 
 Since August 2022, I started posting regular posts and videos on LinkedIn highlighting a [Cilium](https://github.com/cilium/cilium) feature.
 
@@ -46,6 +46,7 @@ Don't hesitate to share this repo with your peers if you find it useful.
 
 | Episode  | Month      | Title                                        | LinkedIn Link                                                                                                         | Category                                      |
 |----------------|------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
+| 44             | June 2024 | Cilium Gateway API GAMMA                | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-this-weeks-cilium-weekly-i-cover-a-new-activity-7208839190573137931-AR7e?utm_source=share&utm_medium=member_desktop) | Service Mesh & Ingress/Gateway API |
 | 43             | May 2024  | Multicast on Kubernetes with Cilium     | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_in-episode-43-of-cilium-weekly-i-cover-a-activity-7193536716744335360-2M8O?utm_source=share&utm_medium=member_desktop) | CNI |
 | 42             | January 2024  | gRPC Routing with Cilium Gateway API      | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_the-upcoming-cilium-115-adds-support-for-activity-7153778923909124097-syTp?utm_source=share&utm_medium=member_desktop) | Service Mesh & Ingress/Gateway API |
 | 41             | December 2023 | Terraform Provider for Cilium             | [LinkedIn Link](https://www.linkedin.com/posts/nicolasvibert_cilium-activity-7141043834196520960-tWF3?utm_source=share&utm_medium=member_desktop) | GitOps & Infra As Code |
