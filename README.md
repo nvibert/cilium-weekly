@@ -1,4 +1,3 @@
-rity
 ![image](https://github.com/nvibert/cilium-weekly/assets/28391130/55d5f02b-6796-4b93-8c3d-f06f251a7104)
 
 A repo listing all the Cilium Weekly videos!
