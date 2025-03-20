@@ -16,7 +16,7 @@ By the way, outside of Cilium Weekly, I also create a lot of Cilium content: blo
 
 # Episode Request and Feedback
 
-If you'd like me to cover a specific topic that is not yet covered below, please raise an issue on this repo. You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/) or on the Cilium [Slack](https://cilium.herokuapp.com/).
+If you'd like me to cover a specific topic that is not yet covered below, please raise an issue on this repo. You can also find me on [LinkedIn](https://www.linkedin.com/in/nicolasvibert/).
 
 If you'd also like to share some feedback about the videos, feel free to get in touch. 
 
